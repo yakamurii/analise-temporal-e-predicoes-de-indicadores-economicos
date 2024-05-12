@@ -19,3 +19,12 @@ A fonte de dados utilizada pode ser acessada através do [Banco Central API](htt
     </ul>
   </li>
 </ul>
+
+## Estrutura do Dados
+
+Os dados são compostos por:
+ <li><strong>Data:</strong> Data da medição.</li>
+  <li><strong>Valor:</strong> Índice de confiança do consumidor.</li>
+
+
+   
